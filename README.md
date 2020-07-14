@@ -1,5 +1,5 @@
 # Install_Openslide
-# How to install openslide module on Windows:
+# How to install openslide-module on Windows:
 
 As I encountered various problems on the internet, regarding the installation of the openslide-module for python on windows systems, I wanted to share how it worked for me:
 
@@ -8,11 +8,11 @@ As I encountered various problems on the internet, regarding the installation of
 3. pip install openslide-python - in your goal venv, conda env, etc.
 ...
 From now it depends which interpreter you use - hit the following commands:
-1. Jupyter notebook:
+A. Jupyter notebook:
 - import os
 - os.add_dll_directory(r'PATH')
 - import openslide
-2. Console:
+B. Console:
 - cd 'PATH'
 - python
 - import os

@@ -20,5 +20,7 @@ From now it depends which interpreter you use - hit the following commands:
 - os.add_dll_directory(r'PATH')
 - import openslide
 
+...where PATH is the openslide\bin path in your filesystem
+
 
 I got the idea from: https://stackoverflow.com/questions/59014318/filenotfounderror-could-not-find-module-libvlc-dll

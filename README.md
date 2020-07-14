@@ -1,4 +1,4 @@
-# Install_openslide
+# Install_Openslide
 # How to install openslide module on Windows:
 
 As I encountered various problems on the internet, regarding the installation of the openslide-module for python on windows systems, I wanted to share how it worked for me:

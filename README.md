@@ -7,12 +7,13 @@ As I encountered various problems on the internet, regarding the installation of
 2. Unzip the file and copy full path to your goal path
 3. pip install openslide-python - in your goal venv, conda env, etc.
 ...
+
 From now it depends which interpreter you use - hit the following commands:
-A. Jupyter notebook:
+1. Jupyter notebook:
 - import os
 - os.add_dll_directory(r'PATH')
 - import openslide
-B. Console:
+2. Console:
 - cd 'PATH'
 - python
 - import os
